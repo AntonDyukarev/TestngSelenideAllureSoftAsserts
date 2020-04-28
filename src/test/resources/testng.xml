@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="Demo test suite">
+    <test name="Demo tests">
+        <classes>
+            <class name="com.anton.dyukarev.TestRunner" />
+        </classes>
+    </test>
+</suite>
